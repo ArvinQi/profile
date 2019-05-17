@@ -1,0 +1,34 @@
+{
+  "name": "qijinlong",
+  "version": "0.0.1",
+  "description": "Front-End Developer",
+  "main": "index.js",
+  "repository": "git@github.com:ArvinQi/profile.git",
+  "author": "qi.jinlong@outlook.com",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-typescript": "^1.1.1",
+    "echarts": "^4.2.1",
+    "echarts-for-react": "2.0.14",
+    "next": "^8.1.0",
+    "next-offline": "^3.4.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.2.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.9.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-alloy": "^1.4.2",
+    "eslint-plugin-react": "^7.13.0",
+    "eslint-plugin-typescript": "^0.14.0",
+    "typescript": "^3.4.5",
+    "typescript-eslint-parser": "^22.0.0"
+  }
+}

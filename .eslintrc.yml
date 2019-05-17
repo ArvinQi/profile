@@ -1,0 +1,3 @@
+parser: "typescript-eslint-parser"
+extends:
+  - eslint-config-alloy/typescript-react
